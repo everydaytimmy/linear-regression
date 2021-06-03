@@ -5,3 +5,4 @@ This repo holds some of the code I am using to familiarize myself with regressio
 I am using Pandas, Numpy, Seaborn, Matplotlib, and Sklearn
 
 Temp Submission PR link:
+https://github.com/everydaytimmy/linear-regression/pull/1
